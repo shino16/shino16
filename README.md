@@ -4,7 +4,7 @@
 高い学業成績とアルゴリズム力を持つ意欲的な学生です。グループ開発の経験があり、技術を学び適用することに意欲的です。
 
 # Education
-### オックスフォード大学 – Master of Mathematics and Computer Science** (Oct '21 – Jun '25)
+**オックスフォード大学 – Master of Mathematics and Computer Science** (Oct '21–Jun '25)
 * 昨年度の成績：同課程内 2 位
 * 関連するカリキュラム内容：データ構造とアルゴリズム、並列プログラミング、多次元数値計算、量子情報、関数型プログラミング
 * 柳井正財団海外奨学金を受給中
