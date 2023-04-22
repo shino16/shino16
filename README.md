@@ -1,16 +1,43 @@
-### Hi there 👋
+[English version](resume.pdf)
 
-<!--
-**shino16/shino16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Summary
+高い学業成績とアルゴリズム力を持つ意欲的な学生です。グループ開発の経験があり、技術を学び適用することに意欲的です。
 
-Here are some ideas to get you started:
+# Education
+### オックスフォード大学 – Master of Mathematics and Computer Science** (Oct '21 – Jun '25)
+* 昨年度の成績：同課程内 2 位
+* 関連するカリキュラム内容：データ構造とアルゴリズム、並列プログラミング、多次元数値計算、量子情報、関数型プログラミング
+* 柳井正財団海外奨学金を受給中
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**東京大学 – 理科一類** (Apr '21–Sep '21, 休学中)
+
+# Skills
+**競技プログラミング**
+* レーティング [![shino16](https://img.shields.io/endpoint?url=https%3A%2F%2Fatcoder-badges.now.sh%2Fapi%2Fatcoder%2Fjson%2Fshino16)](https://atcoder.jp/users/shino16)
+* Google Code Jam 2022 Round 2 にて 166 位
+* 第 19 回日本情報オリンピック本選出場
+* 言語：C++17, Python, Rust
+
+**ロボット開発**
+* ロボット大会 RoboCupJunior の Soccer Lightweight 部門にて世界 2 位 (2019 年)
+* 全方位カメラを設計し、画像認識を高速化した。ロボット上部にカメラを上向きに配置し、円錐形の鏡でフィールド全体を見渡せるよう設計した。ゴールやボールには特定の色が塗られており、それらの位置や形状から自機の相対的な位置を求め、相手ロボットと相手ゴールの位置関係の情報を戦略決定に利用した。
+
+**Web 開発**
+* 高校の文化祭運営のため、観劇チケットの抽選を行う Web アプリをグループで開発。来校者は文化祭当日に QR コードから劇に応募でき、抽選結果を確認できた。抽選においては過去の当選回数が少ない人が当たりやすくなるよう重みづけされた。バックエンド担当の一人として、抽選処理やデータベースの管理を実装した。
+* 競技プログラミングコミュニティの Discord サーバ運営のために bot を開発。Bot はメンバーの AtCoder ユーザ名登録を受け付け、定期的にレートの色に基づいてロールをつけ外しする。かつては Heroku の無料枠を利用していたが、Discord API のバージョンアップや無料枠の廃止により機能が停止していた。現在は GitHub のプライベートリポジトリでデータを管理し、GitHub Actions のスケジュール実行で同等の機能を提供している。
+* 数学オリンピックコミュニティのため静的 Web サイトを作成 (現在は活動停止)。コミュニティが運営する定期コンテストに対して、各参加者の得点を自動的に Google Sheets から取得し、ランキングや各参加者の参加記録を HTML 形式で出力して GitHub Pages でホストした。
+
+**数学**
+* 第 30 回日本数学オリンピック本選出場
+* 高校で毎週のオリンピック数学勉強会を運営
+
+**成長意欲**
+* 大学院レベルの数学とアルゴリズムのオンラインゼミに高校時代から貢献
+* イギリスの高校卒業資格を独学で取得
+
+# Experience
+**フィックスターズ株式会社 – ソフトウェア開発インターンシップ**
+* スーパーコンピュータ SX-Aurora TSUBASA 上で計算のベクトル化
+* 既存コードの改善とバグ修正
+* アセンブリを介してコンパイラによる最適化を解析
+* チームメンバーとリモートで協
