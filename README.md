@@ -16,7 +16,7 @@
 # Skills
 
 **CUDA**
-* NumPy/Scipy の GPU 化ライブラリ CuPy に貢献
+* NumPy/Scipy の GPU 化ライブラリ CuPy に貢献 (https://github.com/cupy/cupy/pull/7881)
 * CUDA C++ を用いたカーネルの実装や、NCCL を用いた 2 点間非同期通信
 
 **コンパイラ**
