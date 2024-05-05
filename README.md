@@ -1,9 +1,5 @@
 [English version](resume.pdf)
 
-# Summary
-
-アルゴリズムと実装力に長けており、高速化に関連する実務経験があります。好奇心が強く、新たな技術を学ぶことへの熱意があります。
-
 # Education
 
 **オックスフォード大学 – Master of Mathematics and Computer Science** (Oct '21–Jun '25)
